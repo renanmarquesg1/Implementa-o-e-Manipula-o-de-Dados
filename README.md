@@ -1,4 +1,4 @@
-# Implementa-o-e-Manipula-o-de-Dados
+# Implementacao e Manipulacao de Dados
 :D
 # Sistema Eletrocar – Scripts SQL
 
